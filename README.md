@@ -1,7 +1,6 @@
 # Relatórios de Práticas - Sistemas Operativos e Redes
 
-**Aluno:** Seu Nome Completo  
-**Matrícula:** Sua Matrícula  
+**Aluno:** Leticia Ranilly Dos Santos Nascimento 
 **Turma:** SysDevTech 2026.2  
 **Repositório:** Atividades Práticas (Aulas 01, 02 e 03)  
 
